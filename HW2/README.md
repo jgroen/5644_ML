@@ -8,4 +8,4 @@
 Mdl = fitcnb(samples',true_label','Cost',costA100');
 ```
 
-Note that ```generateDataA1Q1.m``` was initially provided by the instructor.
+Note that ```generateDataA1Q1.m``` was initially provided by the instructor. It was modified and saved as ```generateDataQ2.m``` to support Question 2.
